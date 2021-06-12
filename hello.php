@@ -5,6 +5,7 @@
  */
 /*
 Plugin Name: Hello Morning
+Plugin URI: https://dreamstudioweb.com/
 Description: This is not just a plugin, it symbolizes the hope and enthusiasm of an entire morning summed up in two words sung most famously by Maroon 5: Sunday morning. When activated you will randomly see a lyric from <cite>Sunday morning</cite> in the upper right of your admin screen on every page.
 Author: Denis
 Version: 1.6

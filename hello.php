@@ -14,34 +14,41 @@ Author URI: http://ma.tt/
 
 function hello_dolly_get_lyric() {
 	/** These are the lyrics to Hello Dolly */
-	$lyrics = "Hello, Dolly
-Well, hello, Dolly
-It's so nice to have you back where you belong
-You're lookin' swell, Dolly
-I can tell, Dolly
-You're still glowin', you're still crowin'
-You're still goin' strong
-We feel the room swayin'
-While the band's playin'
-One of your old favourite songs from way back when
-So, take her wrap, fellas
-Find her an empty lap, fellas
-Dolly'll never go away again
-Hello, Dolly
-Well, hello, Dolly
-It's so nice to have you back where you belong
-You're lookin' swell, Dolly
-I can tell, Dolly
-You're still glowin', you're still crowin'
-You're still goin' strong
-We feel the room swayin'
-While the band's playin'
-One of your old favourite songs from way back when
-Golly, gee, fellas
-Find her a vacant knee, fellas
-Dolly'll never go away
-Dolly'll never go away
-Dolly'll never go away again";
+	$lyrics = "Yeah
+Sunday morning, rain is falling
+Steal some covers, share some skin
+Clouds are shrouding us in moments unforgettable
+You twist to fit the mold that I am in
+But things just get so crazy
+Living life gets hard to do
+And I would gladly hit the road, get up and go if I knew
+That someday it would lead me back to you
+That someday it would lead me back to you
+That may be all I need
+In darkness she is all I see
+Come and rest your bones with me
+Driving slow on Sunday morning
+Well I never want to leave
+Yeah, fingers trace your every outline, oh yeah, yeah
+Yeah, aint a picture with my hands, ohh!
+And back and forth we sway like branches in a storm
+Change the weather still together when it ends
+That may be all I need
+In darkness she is all I see
+Come and rest your bones with me
+Driving slow on Sunday morning
+And I never want to leave
+Yeah
+Oh yeah
+But things just get so crazy living life gets hard to do (life gets hard)
+Sunday morning rain is falling and I'm calling out to you
+Singing someday it'll bring me back to you, yeah (someday oh, someday oh)
+Find a way to bring myself back home to you
+You may not know
+That may be all I need
+In darkness she is all I see (you are all I see)
+Come and rest your bones with me
+Driving slow on Sunday morning, driving slow";
 
 	// Here we split it into lines
 	$lyrics = explode( "\n", $lyrics );
